@@ -3,7 +3,7 @@ CorrMSocket provide a TCP socket client function to connect to any TCP server Or
 
 # GameSever
 Written in Visual Basic.Net, To test all the exampels in this repository.
-> You must run before any of the examples
+> You must run GameSevrer before any of the examples
 
 # Changelog
 ## [1.0.1] - 2017-09-24
