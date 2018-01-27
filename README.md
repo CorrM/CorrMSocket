@@ -1,5 +1,6 @@
 # CorrMSocket
-CorrMSocket provide a TCP socket client function to connect to any TCP server Or Create TCP Server for ue4
+CorrMSocket provide a TCP socket function to connect to any **TCP server** Or **Create TCP Server** for ue4.
+Create TCP Server Or TCP Client, it's Your choice.
 
 # GameSever
 Written in Visual Basic.Net, To test all the exampels in this repository.
